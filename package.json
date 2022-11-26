@@ -1,0 +1,10 @@
+{
+  "name": "fetch-proxy",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
